@@ -1,0 +1,2 @@
+# Skin-Diseases-Identification-Using-ML-and-AI
+The main objective of the project is to present a robust mechanism that can accurately detect and identify the skin disease  type through the supervisory approaches. Our project detects and classifies the skin disease type which is more accurate and lowers the diagnosis costs and also saves time compared to normal methods.In this project artificial intelligence  has been used to diagnose the skin diseases and implementation is done through the use of CNN machine learning algorithms
